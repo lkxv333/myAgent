@@ -1,0 +1,12 @@
+transformers
+torch
+torchvision
+torchaudio
+sentencepiece
+pillow
+opencv-python
+datasets
+scipy
+matplotlib
+accelerate
+gradio
